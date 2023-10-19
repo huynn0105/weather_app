@@ -25,7 +25,6 @@ This Flutter Weather App is designed to provide users with accurate weather info
 <img src="https://github.com/huynn0105/weather_app/assets/51359128/1766b294-8c90-473f-a374-84232764bbba" height="500" />
 <img src="https://github.com/huynn0105/weather_app/assets/51359128/61f50310-5846-488f-92b8-4155d241d649" height="500" />
 <img src="https://github.com/huynn0105/weather_app/assets/51359128/06c9225d-7c8a-4d34-9e54-63aa689f4ae9" height="500" />
-<img src="https://github.com/huynn0105/weather_app/assets/51359128/4f001258-4185-493e-93be-0ef364ad8ac1" height="500" />
 
 ## Getting Started
 1. Get your API key by creating an account at [WeatherAPI](https://www.weatherapi.com/).
