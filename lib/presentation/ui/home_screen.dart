@@ -75,6 +75,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                 state.weather.location,
                                 style: TextStyleUtils.bold(30),
                                 maxLines: 2,
+                                textAlign: TextAlign.center,
                               ),
                               const SizedBox(height: 10),
                               _WeatherTemp(
