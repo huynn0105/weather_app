@@ -19,6 +19,12 @@ This Flutter Weather App is designed to provide users with accurate weather info
 
 
 ## Screenshots of the application 📷
+![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 12 05 33](https://github.com/huynn0105/weather_app/assets/51359128/4f001258-4185-493e-93be-0ef364ad8ac1)
+![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 12 05 47](https://github.com/huynn0105/weather_app/assets/51359128/462ee7cd-30e2-4b42-866d-f1bba292164e)
+![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 12 06 16](https://github.com/huynn0105/weather_app/assets/51359128/21994003-5e93-4034-86c3-af591bf026ac)
+![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 11 53 04](https://github.com/huynn0105/weather_app/assets/51359128/1766b294-8c90-473f-a374-84232764bbba)
+![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 12 13 27](https://github.com/huynn0105/weather_app/assets/51359128/61f50310-5846-488f-92b8-4155d241d649)
+![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 12 14 02](https://github.com/huynn0105/weather_app/assets/51359128/06c9225d-7c8a-4d34-9e54-63aa689f4ae9)
 
 
 ## Getting Started
@@ -32,7 +38,7 @@ This Flutter Weather App is designed to provide users with accurate weather info
    ```sh
    flutter pub get
    ```
-4. Navigate to **lib/utils/constants.dart** and paste your API key to the mApiKey variable
+4. Navigate to **lib/utils/constants.dart** and paste your API key to the defaultApiKey variable
    ```dart
    static const defaultApiKey = 'Your API Key';
    ```
