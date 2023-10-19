@@ -19,6 +19,7 @@ This Flutter Weather App is designed to provide users with accurate weather info
 
 
 ## Screenshots of the application 📷
+<img src="https://github.com/huynn0105/weather_app/assets/51359128/4f001258-4185-493e-93be-0ef364ad8ac1" height="500" />
 ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 12 05 33](https://github.com/huynn0105/weather_app/assets/51359128/4f001258-4185-493e-93be-0ef364ad8ac1)
 ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 12 05 47](https://github.com/huynn0105/weather_app/assets/51359128/462ee7cd-30e2-4b42-866d-f1bba292164e)
 ![Simulator Screenshot - iPhone 15 Pro - 2023-10-19 at 12 06 16](https://github.com/huynn0105/weather_app/assets/51359128/21994003-5e93-4034-86c3-af591bf026ac)
