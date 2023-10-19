@@ -10,8 +10,7 @@ This Flutter Weather App is designed to provide users with accurate weather info
 
 
 ## Features 🌟
-- Discover the weather at your place (Support US zipcode, UK postcode, city name.).
-- Discover the weather around the world.
+- Discover the weather around the world (Support US zipcode, UK postcode, city name.).
 - Provide details on humidity, cloud, UV and wind
 - Beautiful and friendly user interface.
 - Error handling for API requests and network connectivity issues.
